@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badal Biswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-gif">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
 
 - 🔭 I’m currently working on **Netflix clone**
 
