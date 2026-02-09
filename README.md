@@ -1,4 +1,4 @@
-![logo](https://github.com/badalbiswal821-code/badalbiswal821-code/blob/main/download.jfif)
+
 <h1 align="center">Hi 👋, I'm Badal Biswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
